@@ -1,1 +1,1 @@
-https://github.com/Jeffcery/mi/blob/main/ip.txt
+https://raw.githubusercontent.com/Jeffcery/mi/refs/heads/main/ip.txt
